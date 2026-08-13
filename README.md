@@ -1,2 +1,5 @@
-# game-ads
-See yuvaldor.com
+# Game ads
+
+See [yuvaldor.com](https://yuvaldor.com)
+
+mail@yuvaldor.com
